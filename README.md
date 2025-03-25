@@ -1,13 +1,12 @@
-<h1 align="center">Salom 👋, men Abdulaziz</h1>
 <h3 align="center">Men dasturchiman va texnologiyalarga qiziqaman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulaziz2501&label=Profile%20views&color=0e75b6&style=flat" alt="abdulaziz2501" /> </p>
 
-- 🔭 Hozirda men **[loyiha nomi](loyiha-linki)** ustida ishlayapman  
+- 🔭 Hozirda men **[KO'z kasalliklari loyihasi](loyiha-linki)** ustida ishlayapman  
 - 🌱 Hozirda **[o'rganayotgan texnologiyangiz]** o‘rganayapman  
-- 💬 Menga [til yoki texnologiya] haqida savol bera olasiz  
-- 📫 Menga bog‘lanish uchun: **[emailingiz yoki ijtimoiy tarmoq linki]**  
-- ⚡ Qiziqishlarim: **[hobbilaringiz yoki qiziqishlaringiz]**  
+- 💬 Menga [Python] haqida savol bera olasiz  
+- 📫 Menga bog‘lanish uchun: **[https://abduhakimovabdulaziz52@gmail.com]**  
+- ⚡ Qiziqishlarim: **[Su'niy intellekt va ma'lumotlar analitikasi]**  
 
 ---
 
@@ -38,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulaziz2501&theme=dark-blue&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulaziz2501&theme=github&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
