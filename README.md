@@ -5,7 +5,7 @@
 - 🔭 Hozirda men **[KO'z kasalliklari loyihasi](loyiha-linki)** ustida ishlayapman  
 - 🌱 Hozirda **[o'rganayotgan texnologiyangiz]** o‘rganayapman  
 - 💬 Menga [Python] haqida savol bera olasiz  
-- 📫 Menga bog‘lanish uchun: **[https://abduhakimovabdulaziz52@gmail.com]**  
+- 📫 Menga bog‘lanish uchun: **[abduhakimovabdulaziz52@gmail.com]**  
 - ⚡ Qiziqishlarim: **[Su'niy intellekt va ma'lumotlar analitikasi]**  
 
 ---
@@ -49,8 +49,8 @@
 ---
 
 ### 📫 **Mening Ijtimoiy Tarmoqlarim**  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abdulaziz_2501)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulaziz2501)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulaziz2501)  
 
 ---
