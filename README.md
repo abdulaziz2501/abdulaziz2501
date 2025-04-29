@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulaziz2501&label=Profile%20views&color=0e75b6&style=flat" alt="abdulaziz2501" /> </p>
 
-- 🔭 Hozirda men **[KO'z kasalliklari loyihasi](loyiha-linki)** ustida ishlayapman  
-- 🌱 Hozirda **[o'rganayotgan texnologiyangiz]** o‘rganayapman  
+- 🔭 Hozirda men **[ko'z kasalliklari loyihasi](loyiha-linki)** ustida ishlayapman  
+- 🌱 Hozirda **[Python, Django, ML, Deep learning, Data sciense]** o‘rganayapman  
 - 💬 Menga [Python] haqida savol bera olasiz  
 - 📫 Menga bog‘lanish uchun: **[abduhakimovabdulaziz52@gmail.com]**  
 - ⚡ Qiziqishlarim: **[Su'niy intellekt va ma'lumotlar analitikasi]**  
@@ -63,9 +63,9 @@
 ---
 
 ### 🎯 **Maqsadlarim**  
-✅ [Maqsad 1]  
-✅ [Maqsad 2]  
-🔲 [Maqsad 3]  
+🔲 [English tilini o'rganish]  
+🔲 [Data sciense mutaxasisi]  
+✅ [Python dasturchi]  
 
 ---
 
