@@ -1,17 +1,17 @@
-# 👋 Salom, men [ISMINGIZ]!
+# 👋 Salom, men Abdulaziz!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Data+Scientist;AI+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/abdulaziz2501/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/abdulaziz2501/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://t.me/TELEGRAM_USERNAME">
+  <a href="https://t.me/abdulaziz_2501">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:EMAIL@EXAMPLE.COM">
@@ -21,12 +21,11 @@
 
 ## 🧑‍💻 Men haqimda
 
-- 🔭 Hozirda men **[JORIY LOYIHANGIZ/ISHINGIZ]** ustida ishlamoqdaman
-- 🌱 O'rganayotgan texnologiyalarim: **[TEXNOLOGIYALAR]**
-- 👯 **[HAMKORLIK QILMOQCHI BO'LGAN SOHA]** bo'yicha hamkorlikka tayyorman
-- 💬 Mendan **[SOHALARINGIZ]** haqida so'rashingiz mumkin
-- 📫 Bog'lanish: [EMAIL@EXAMPLE.COM](mailto:EMAIL@EXAMPLE.COM)
-- ⚡ Qiziq fakt: **[QIZIQARLI FAKT HAQINGIZDA]**
+- 🔭 Hozirda men **AI modeli yordamida ko'z kasalliklarini tahlil qilish** ustida ishlamoqdaman
+- 🌱 O'rganayotgan texnologiyalarim: **Python , Tensorflow, Keras va boshqalar.**
+- 👯 **AI, ML, Data science** bo'yicha hamkorlikka tayyorman
+- 💬 Mendan **Python va AI** haqida so'rashingiz mumkin
+- 📫 Bog'lanish: abduhakimovabdulaziz52@gmail.com(mailto:abduhakimovabdulaziz52@gmail.com)
 
 ## 🛠️ Texnologiyalar va Instrumentlar
 
@@ -49,41 +48,41 @@
 ## 📊 GitHub Statistikalarim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Statistikalar"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulaziz2501&show_icons=true&theme=radical" alt="GitHub Statistikalar"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulaziz2501&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz2501&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ## 🧩 LeetCode Statistikalarim
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/LEETCODE_USERNAME?theme=dark&font=Noto%20Sans&ext=activity" alt="LeetCode Statistikalar"/>
+  <img src="https://leetcard.jacoblin.cool/abdulaziz2501?theme=dark&font=Noto%20Sans&ext=activity" alt="LeetCode Statistikalar"/>
 </div>
 
 ## 🔝 Eng yaxshi loyihalarim
 
 <div align="center">
-  <a href="https://github.com/GITHUB_USERNAME/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USERNAME&repo=PROJECT_1&theme=radical" alt="Project 1"/>
+  <a href="https://github.com/abdulaziz2501/PROJECT_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulaziz2501&repo=PROJECT_1&theme=radical" alt="Project 1"/>
   </a>
-  <a href="https://github.com/GITHUB_USERNAME/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USERNAME&repo=PROJECT_2&theme=radical" alt="Project 2"/>
+  <a href="https://github.com/abdulaziz2501/PROJECT_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulaziz2501&repo=PROJECT_2&theme=radical" alt="Project 2"/>
   </a>
 </div>
 
 ## 📈 Faollik Grafigi
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=GITHUB_USERNAME&theme=redical" alt="Contribution Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=abdulaziz2501&theme=redical" alt="Contribution Graph"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulaziz2501&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ## 🌐 Portfolio va Blog
@@ -94,7 +93,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&style=flat-square&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=abdulaziz2501&style=flat-square&color=blueviolet" alt="Profile views"/>
   <br>
   
   <i>Bir marta kod yozish, ikki marta o'qish!</i>
@@ -103,5 +102,5 @@
 </div>
 
 <!--
-**GITHUB_USERNAME/GITHUB_USERNAME** bu mahsus ✨ _special_ ✨ repozitoriy, chunki README.md fayli GitHub profilingizda ko'rsatiladi.
+**abdulaziz2501/abdulaziz2501** bu mahsus ✨ _special_ ✨ repozitoriy, chunki README.md fayli GitHub profilingizda ko'rsatiladi.
 -->
