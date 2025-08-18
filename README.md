@@ -25,7 +25,7 @@
 - 🌱 O'rganayotgan texnologiyalarim: **Python , Tensorflow, Keras va boshqalar.**
 - 👯 **AI, ML, Data science** bo'yicha hamkorlikka tayyorman
 - 💬 Mendan **Python va AI** haqida so'rashingiz mumkin
-- 📫 Bog'lanish: abduhakimovabdulaziz52@gmail.com(mailto:abduhakimovabdulaziz52@gmail.com)
+- 📫 Bog'lanish: abduhakimovabdulaziz52@gmail.com
 
 ## 🛠️ Texnologiyalar va Instrumentlar
 
