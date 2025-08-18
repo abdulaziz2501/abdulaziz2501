@@ -30,52 +30,68 @@
 ## 🛠️ Texnologiyalar va Instrumentlar
 
 
+💡 **Aspiring Software Developer | AI & Data Science Enthusiast**  
 
-# Hi there 👋, I'm Abdulaziz  
-
-🚀 **Aspiring Developer | AI & Data Science Enthusiast**  
-
-Welcome to my GitHub!  
-I’m passionate about **Python, AI, Machine Learning, Data Science, and Backend Development**.  
-Currently, I’m learning and building projects with modern tools and frameworks.  
+I’m passionate about **Machine Learning, Data Science, Backend Development, and Computer Vision**.  
+Currently exploring how to build intelligent systems that solve real-world problems.  
 
 ---
 
-## 🌐 Connect with me  
+## 🌐 Connect With Me  
 - 📱 [Telegram](https://t.me/abdulaziz_2501)  
-- 🎥 [YouTube](https://abdulazizabduhakimov)  
+- 🎥 [YouTube](https://www.youtube.com/@abdulazizabduhakimov)  
 - 🧑‍💻 [LeetCode](https://leetcode.com/abdulaziz_2501/)  
+- 🐙 [GitHub](https://github.com/abdulaziz2501)  
 
 ---
 
-## 💻 Technologies & Tools  
+## 💻 Skills & Technologies  
 
 ### 🔹 Programming Languages  
-- **Python** 🐍  
-- **C**  
-- **Java (basic)**  
+- **Python** 🐍 – Data Science, AI & Automation  
+- **C** – Systems programming basics  
+- **Java** – Object-Oriented fundamentals  
 
 ### 🔹 Databases  
 - **MySQL**  
 - **PostgreSQL**  
 
 ### 🔹 Frameworks & Tools  
-- **Django (basic level)**  
+- **Django (beginner level)**  
 - **Telegram Bot API**  
+- **Git & GitHub**  
 
 ---
 
-## 📊 My LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/abdulaziz_2501?theme=dark&font=Baloo&ext=contest)
+## 📊 Competitive Programming  
+![LeetCode Stats](https://leetcard.jacoblin.cool/abdulaziz_2501?theme=dark&font=Baloo&ext=contest)  
 
 ---
 
-## 📂 Featured Projects  
-🔹 **Telegram Bots** – small projects with Python & Django  
-🔹 **Data Science Experiments** – practice notebooks with ML & visualization  
-🔹 **LeetCode Solutions** – problem-solving in Python  
+## 🚀 Projects & Learning Journey  
+- 🤖 **Telegram Bots** – built with Python & Django  
+- 📊 **Data Science Notebooks** – experiments with ML algorithms & visualizations  
+- 🧩 **LeetCode Solutions** – problem-solving in Python  
+- 🌐 **Web Apps** – beginner projects with Django  
 
 ---
 
-⭐️ _Always learning, always building!_
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulaziz2501&show_icons=true&theme=radical" alt="Abdulaziz's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz2501&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🎯 Current Focus  
+- Deepening knowledge in **Machine Learning & AI**  
+- Strengthening backend development with **Django + Databases**  
+- Practicing algorithms & problem solving on **LeetCode**  
+
+---
+
+⭐️ *“Always learning, always building!”*  
+
 
